@@ -1,0 +1,21 @@
+﻿Build started 1/28/2012 1:04:12 PM.
+     1>Project "c:\Users\Wallace\documents\visual studio 2010\Projects\position\position\position.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\position.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt position.cpp
+         position.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\position.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.lib" /MACHINE:X86 Debug\position.obj
+         LINK : c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.exe not found or not built by the last incremental link; performing full link
+         position.vcxproj -> c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\wallace\documents\visual studio 2010\Projects\position\Debug\position.exe;#1" /manifest Debug\position.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\position.unsuccessfulbuild".
+         Touching "Debug\position.lastbuildstate".
+     1>Done Building Project "c:\Users\Wallace\documents\visual studio 2010\Projects\position\position\position.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53

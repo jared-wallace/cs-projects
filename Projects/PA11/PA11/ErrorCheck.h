@@ -1,0 +1,1 @@
+void ErrorCheck(int rowsx, int colsx, bool &status);

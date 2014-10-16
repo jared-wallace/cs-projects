@@ -1,0 +1,18 @@
+The initial array looks like this: 
+
+1 5 4 
+8 6 9 
+5 8 3 
+The first sub-array looks like this:
+
+6 9 
+8 3 
+The second sub-array looks like this:
+
+1 5 
+8 6 
+The third sub-array looks like this:
+
+5 4 
+0 -3 
+The average value of row 2 is: -1.5

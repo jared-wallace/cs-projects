@@ -1,0 +1,1 @@
+const int nrows=10, ncols=10;

@@ -1,0 +1,20 @@
+﻿Build started 4/21/2012 7:35:43 PM.
+     1>Project "C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\PA10\PA10.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PA10.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PA10.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.lib" /MACHINE:X86 Debug\PA10.obj
+         LINK : C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.exe not found or not built by the last incremental link; performing full link
+         PA10.vcxproj -> C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\Debug\PA10.exe;#1" /manifest Debug\PA10.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\PA10.unsuccessfulbuild".
+         Touching "Debug\PA10.lastbuildstate".
+     1>Done Building Project "C:\Users\Wallace\documents\visual studio 2010\Projects\PA10\PA10\PA10.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22
